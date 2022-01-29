@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athenaeum_REST_API", "Athenaeum_REST_API.csproj", "{072E4F8B-FB20-4D28-A684-CD59B77F72AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{072E4F8B-FB20-4D28-A684-CD59B77F72AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{072E4F8B-FB20-4D28-A684-CD59B77F72AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{072E4F8B-FB20-4D28-A684-CD59B77F72AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{072E4F8B-FB20-4D28-A684-CD59B77F72AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB2E85E-AA9B-4F73-96F9-75B691B63064}
+	EndGlobalSection
+EndGlobal
